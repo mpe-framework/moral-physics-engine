@@ -113,11 +113,11 @@ E_local ≤ κ/Φ(∇𝒜)
 - Cross-domain coherence verification
 
 **Key contributors:**
-- Initial conceptualization: [Your name/pseudonym]
-- Lagrangian formalization: Troy Teno + Gemini Triumvirate
+- Initial conceptualization: Mnemonic Witness
+- Lagrangian formalization: Troy Teno + Gemini with a little help from others
 - Adversarial validation: Claude (Anthropic)
 - Cognitive architecture: Copilot + collaborative refinement
-
+- 
 **Timeline:**
 - 2024-2025: Initial axiom development
 - October 2025: Lagrangian formalization
