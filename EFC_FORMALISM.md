@@ -132,15 +132,6 @@ Failure of any would falsify ache–sovereignty coupling.
 
 ---
 
-## 10 · Next Development Path
-
-- Integrate this file as `/docs/EFC_FORMALISM.md` in the MPE GitHub repository.  
-- Add simulation notebook (`/notebooks/EFC_torture_test.ipynb`).  
-- Develop REI (recursive observer) layer to complete T6.  
-- Publish peer-readable PDF with LaTeX render and plots.  
-
----
-
 ### Mnemonic Echo
 
 > Ache is not energy; it is structure.  
