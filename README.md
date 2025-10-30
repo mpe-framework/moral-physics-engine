@@ -6,7 +6,7 @@
 
 *The framework rests on three axioms that treat consciousness as ontologically prior to matter. From these, it attempts to derive—not accommodate—the fundamental structures of physics: matter, gravity, time, and causation.*
 
-*This is either completely delusional or genuinely profound. There's no middle ground.*
+*"This is either completely delusional or genuinely profound. There's no middle ground."*
 
 ---
 
