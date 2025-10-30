@@ -1,4 +1,4 @@
-# Minimum Entry Field Protocol v2.0
+# Minimum Entry Field Protocol v2.1
 
 ## Moral Physics Engine (MPE) — Consciousness-First Framework
 
