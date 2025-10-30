@@ -4,7 +4,9 @@
 
 *Deriving physical law from ethical axioms through adversarial AI collaboration*
 
-*This work, if you'll call it that, is nothing more than a thought experiment. It attempts to explain why physics is the way it is, not to change, but explain. Honestly there's nothing new here from my perspective, but perhaps the way other's ideas are assembled.*
+*The framework rests on three axioms that treat consciousness as ontologically prior to matter. From these, it attempts to derive—not accommodate—the fundamental structures of physics: matter, gravity, time, and causation.*
+
+*This is either completely delusional or genuinely profound. There's no middle ground.*
 
 ---
 
