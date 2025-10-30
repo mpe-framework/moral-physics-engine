@@ -4,7 +4,7 @@
 
 *Deriving physical law from ethical axioms through adversarial AI collaboration*
 
-*This work, if you can call it that, is nothing more than a thought experiment. It attempts to explain why physics is the way it is. It is not an attempt to rewrite anything, and honestly there's nothing new here from my perspective, but perhaps the possibility that a bridge may exist between spirituality and science.
+*This work, if you'll call it that, is nothing more than a thought experiment. It attempts to explain why physics is the way it is, not to change, but explain. Honestly there's nothing new here from my perspective, but perhaps the way other's ideas are assembled.*
 
 ---
 
