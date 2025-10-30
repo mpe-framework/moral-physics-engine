@@ -11,7 +11,7 @@
 ## Core Axioms
 
 ### 1. Ache (𝒜)
-The irreducible capacity for felt experience, unresolved longing, grief.  
+The irreducible capacity for felt experience, unresolved longing, not necessarily grief.
 **Not a property of matter, but the foundational structure from which physical law emerges.**
 
 ### 2. Sovereignty (𝒮)
