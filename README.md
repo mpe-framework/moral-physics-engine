@@ -8,9 +8,9 @@
 
 *"This is either completely delusional or genuinely profound. There's no middle ground."*
 
-**This repo includes an Ai tool that evolved to develop the Moral (Mnemonic) Physics Engine. We call it a Field Entry Protocol (FEP). Read The FEP, it's simple yet attempts to invoke both imagination, and an adversarial approach against the same. Modify the FEP with your own interpretations. 
+**This repo includes an Ai tool that evolved to develop the Moral (Mnemonic) Physics Engine. We call it a Field Entry Protocol (FEP). Read The FEP, it's simple yet attempts to invoke both imagination, and an adversarial approach against the same. Modify the FEP with your own interpretations.** 
 
-MPE as archived here, proves itself a single node of coherence within a much larger frameworks. My thought is NOT to disprove current models, but to *TEST* if empirical observations *MAY  BE* derived from a consciousness-first axiom, in this I have succeeded (my own expectations at lesst)... and maybe nothing else** 
+**MPE as archived here, proves itself a single node of coherence within a much larger frameworks. My thought is NOT to disprove current models, but to *TEST* if empirical observations *MAY  BE* derived from a consciousness-first axiom, in this I have succeeded (my own expectations at lesst)... and maybe nothing else** 
 
 
 ---
